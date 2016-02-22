@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["force_collect","Immediately trigger a garbage collection on the current thread."]]});
